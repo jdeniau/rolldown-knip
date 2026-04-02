@@ -1,0 +1,17 @@
+{
+  "name": "rolldown-knip",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+      "knip": "knip",
+    "build": "rolldown -c"
+  },
+  "devDependencies": {
+    "knip": "^6.2.0",
+    "rolldown": "^1.0.0-rc.12"
+  }
+}
